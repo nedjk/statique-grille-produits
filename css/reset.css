@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Monserrat", sans-serif;
+    color: var(--text-light);
+    margin: 0;
+    padding: 0;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-style: unset;
+    font-weight: unset;
+    margin: unset;
+    padding: unset;
+}
+
+a {
+    text-decoration: unset;
+    color: currentColor;
+}
+
+button {
+    background: unset;
+    border: none;
+    cursor: pointer;
+}
